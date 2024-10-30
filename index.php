@@ -274,7 +274,7 @@
             <p>&copy; 2024 THOMAS-TECH GROUP. Tous droits réservés. Cliquez sur les icônes ci-dessous projets en cours .....</p>
         </div>
 
-        <!-- Section Statistiques (à ajouter avant le footer) -->
+        <!-- Section Statistiques -->
         <section class="stats-section animate__animated animate__fadeInUp">
             <h2><i class="fas fa-chart-bar"></i> Nos Statistiques</h2>
             <div class="stats-container">
@@ -287,11 +287,8 @@
                     <div class="stat-number" id="weeklyVisits">0</div>
                     <div class="stat-label">Visites cette Semaine</div>
                     <div class="stat-icon"><i class="fas fa-calendar-week"></i></div>
-                </div>
+
                 <div class="stat-box">
-                    <div class="stat-number" id
-
-
                     <div class="stat-number" id="monthlyVisits">0</div>
                     <div class="stat-label">Visites ce Mois</div>
                     <div class="stat-icon"><i class="fas fa-calendar-alt"></i></div>
@@ -303,7 +300,6 @@
                 </div>
             </div>
         </section>
-
     </footer>
 
     <script src="script13.js"></script>
@@ -340,3 +336,4 @@
 </body>
 </html>
 
+                    
