@@ -1,3 +1,10 @@
+<?php
+// Code PHP ici
+echo "Bienvenue sur notre site !";
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
